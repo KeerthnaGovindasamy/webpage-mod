@@ -1,0 +1,164 @@
+#top img{
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:50%;
+}
+
+
+#container t a{
+display:inline;
+color:black;
+
+text-align:centre;
+margin-right:35px;
+text-decoration:none;
+font-size:14px;
+}
+#container t a:hover{
+color:green;
+}
+t{
+margin-left:105px;
+}
+
+ul.icons{
+list-style:none;
+float:right;
+margin-right:70px;
+margin-top:auto;
+padding:0px 60px;
+color:#596922;
+}
+ul.icons li{
+display:inline-block;
+
+}
+ul.icons li i:hover{
+color:#384216
+}
+i{
+margin-right:20px;
+}
+
+#container{
+background-color:white;
+width:100%;
+height:53px;
+border-bottom: #596922 double;
+}
+
+
+#container2{
+background-color:#ffffff;
+height:700px;
+width:87%;
+margin:0px auto;
+}
+
+
+#taskbar2 a{
+display:inline;
+float:right;
+display:block;
+color:black;
+text-align:centre;
+padding:69px 18px;
+text-decoration:none;
+
+}
+#taskbar2 a:hover{
+color:green;
+}
+#title-area{
+
+background-color:#596922;
+border:1px solid white;
+float:left;
+margin:5px;
+over1flow:hidden;
+outline:5px solid #596922;
+padding:20px 10px;
+text-align;centre;
+width:283px;
+height:110px;
+}
+.title{
+ color:#ffffff;
+ text-align: center;
+ font-size:55px;
+ margin: 0 0 5px;
+ font-weight:200;
+ letter-spacing:3px;
+ line-height:1;
+
+}
+.titledes{
+color:#ffffff;
+text-align: center;
+margin: 0 0 24px;
+padding:0;
+display:block;
+font-size:14px;
+font-weight:300;
+letter-spacing: .3px;
+line-height:2;
+}
+
+line3{
+width:100%;
+min-height:36px;
+margin:0 auto;
+border-bottom:1px solid #596922;
+display:flex;
+}
+
+#row::after{
+content:"";
+display:table;
+clear:both;
+}
+#col{
+float:left;
+width:32.55%;
+padding-top:36px;
+padding-right:9px
+}
+#tb1{
+position:absolute;
+top:117%;
+left:9%;
+right:67.2%;
+color:black;
+background-color:white;
+opacity:0.7;
+
+}
+
+#pa{
+text-align:center;
+}
+#pa2{
+text-align:center;
+}
+#tb2{
+position:absolute;
+top:117%;
+left:37.7%;
+right:38.6%;
+color:black;
+background-color:white;
+opacity:0.7;
+
+}
+#tb3{
+position:absolute;
+top:117%;
+left:66.8%;
+right:10%;
+color:black;
+background-color:white;
+opacity:0.7;
+
+}
+
